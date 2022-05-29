@@ -19,7 +19,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" alt="Type Script" width="40" height="40"/> </a>
       <a href="https://reactjs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354259/react.svg" alt="react" width="40" height="40"/> </a>
-      <a href="https://vuejs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354259/vuejs.svg" alt="react" width="40" height="40"/> </a>
+      <a href="https://vuejs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354528/vue.svg" alt="react" width="40" height="40"/> </a>
      <a href="https://nodejs.org" target="_blank"> <img src="https://www.svgrepo.com/show/373929/node.svg" alt="nodejs" width="40" height="40"/> </a>
 
 </p>
