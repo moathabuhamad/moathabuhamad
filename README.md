@@ -1,9 +1,8 @@
 <header><h1 align="left">Hi , I'm Moath Abu Hamad 🤝</h1>
 <h3 align="left">Full stack developer 💻</h3></header>
 
-**Glad to see you here!** :star_struck: 
-<body>
 
+<body>
 <br>
  <img  src="https://github-readme-stats.vercel.app/api?username=moathabuhamad&show_icons=true&theme=dark"width='410'/>
 </a></div>
